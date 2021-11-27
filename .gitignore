@@ -1,0 +1,7 @@
+__pycache__/
+.devcontainer/
+.idea/
+.ipynb_checkpoints/
+.vscode/
+lightning_logs/
+private.env
